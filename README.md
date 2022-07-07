@@ -1,4 +1,4 @@
-# High Movie's Revinues on Boxoffice
+# Highest Grossing Movies
 
 <img src='images/2222.png'>
 
