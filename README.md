@@ -26,11 +26,11 @@ In this project, I work with a Dataset, which can be found in the folder `zipped
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
 
-The dataset which I used inxluded variables about :
+The dataset which I used included variables about :
 
 1-Movie's Genre and avarage rating per each genre.
 
-2-The production budget and how it can affects the movie's gross.
+2-The production budget and how it affects the movie's gross.
 
 3- The month which the movie released on and how it impacts the Box office revinues.
 
@@ -54,8 +54,8 @@ I took a dataset from The Numbers, which contained various movies,their producti
 Testing correlation between production budget and sumation of both (domestic and foreign_gross) , found a strong positive relationship between them, which suggests that when you pay more on production budget you can earn more on  box office .
 
 ### 3. The month that the movie released on
-The third question is: What is the distribution of Box_office baed on release time depends on the movie released month?
-To answer this question, I examined a data from Box Office Mojo which contained informations about the released date and box office earnings avarage based on spesific month.
+The third question is: What is the distribution of Box_office baed on release time depends on the movie's released month?
+To answer this question, I examined a data from Box Office Mojo which contained informations about the released date and box office earnings avarage based on movies released date.
 I found that the highest box office revinues achived on December during the Chrastmas holiday seasons.
 
 ### Methods 
