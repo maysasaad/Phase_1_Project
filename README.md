@@ -84,7 +84,7 @@ We use some important libraries like (Squlite3,Pandas,Numpy,and Matplotlib)in or
 ### Conclusions
 This analysis leads to three recommendations for helping Microsoft company to understand the process of producing movies and the factors are affected thier profets.
 
-1.Better prediction of the movie's genres that are likely have gain more profets.
+1.Better prediction of the movie's genres .
 This modeling could predict which movie's genre gets highest rate. where is the highest rate means more profits on the box office.
 
 2.The budget needed to produce a sucssussful movie. 
