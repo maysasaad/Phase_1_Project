@@ -26,21 +26,11 @@ In this project, I work with a dataset, which can be found in the folder zippe
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
 
-<<<<<<< HEAD
-The dataset that I used included variables about :
-=======
 The dataset which I used included variables about :
->>>>>>> 5146d0bde479c5370b861b14c2aad5f8a5d6adfd
 
 1-Movie's Genre and Box Office Profits per Each Genre
 
-<<<<<<< HEAD
-2: The production budget and how it can affect the movie's gross
-=======
 2-The production budget and how it affects the movie's gross.
-
-3- The month which the movie released on and how it impacts the Box office revinues.
->>>>>>> 5146d0bde479c5370b861b14c2aad5f8a5d6adfd
 
 3-The month in which the movie is released and how it impacts the box office revenue
 
@@ -54,34 +44,27 @@ by testing 3 factors that affect the movie’s box office revenue.
 
 3. The month that the film was released.
 
-<<<<<<< HEAD
 I also set three questions to help me analize this data.
 
 ### The first question is: What is the average estimation of Box office profits based on Movies Genres?
 
-For the first factor, I looked at what kinds of movies were getting high profits at the box office. I used data from an IMDB database and the Box Office MOJO website.
+For the first factor, I looked at what kinds of movies were getting high profits at the box office. I used data from an IMDB database and the rottentomattos website.
 
 I looked at which genre had the most movies produced and which genres had the highest average box office profits.
 
-The drama genre produced the most movies, but animation movies had the highest average movie ratings for a genre.
-
+The most produced  movies fall under drama genre  However; animation movies h the highest average movie ratings for a genre.However;the highest average of  movies profits gos to the Animation movies.
 ### The second question is: What is the relationship between the movie's gross and the movie's production budget? 
 
-I looked at the dataset from The Numbers, which contained various movies,their production budgets, and their domestic and foreign grosses.
+I looked at the dataset from The Numbers and BOX OFFice websites, which contained various movies,their production budgets, and their domestic and foreign grosses.
 
 Testing the correlation between production budget and the sum of both (domestic and foreign_gross) found a strong positive relationship, implying that paying more on production budget allows you to earn more on box office.
 
-### The third question is: What is the distribution of Box office profits depending on the month that the movie releases on?
+### The third question is: What is the estimation of Box office profits depending on the month that the movie releases on?
 
-To answer this question, I examined data from Box Office Mojo and the movie database, which contained information about the release date and box office earnings average based on special month.
+To answer this question, I examined data from rottentomattos and the movie database, which contained information about the release date and box office earnings average based on each month.
 
 I found that the highest box office revenue was achieved in December during the Christmas holiday season.
-=======
-### 3. The month that the movie released on
-The third question is: What is the distribution of Box_office baed on release time depends on the movie's released month?
-To answer this question, I examined a data from Box Office Mojo which contained informations about the released date and box office earnings avarage based on movies released date.
-I found that the highest box office revinues achived on December during the Chrastmas holiday seasons.
->>>>>>> 5146d0bde479c5370b861b14c2aad5f8a5d6adfd
+
 
 ### Methods 
 This project uses descriptive and visual analysis, statistical calculations
@@ -108,13 +91,8 @@ We found that:
 ### Conclusions
 This analysis leads to three recommendations for helping Microsoft company to understand the process of producing movies and the factors that affect its profits.
 
-<<<<<<< HEAD
 1.Better prediction of the movie's genres that are likely to gain more profit.
 This modeling could predict which movie's genre gets the highest profits at the box office.
-=======
-1.Better prediction of the movie's genres .
-This modeling could predict which movie's genre gets highest rate. where is the highest rate means more profits on the box office.
->>>>>>> 5146d0bde479c5370b861b14c2aad5f8a5d6adfd
 
 2.The budget needed to produce a successful movie
 This modeling could calculate the average amount of money needed for producing a movie and could achieve more profits.
