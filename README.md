@@ -55,7 +55,7 @@ As we can show from the figure below , box office profits increase in some movie
 
 The box office profits were recorded (Romance,Comedy,Animation,Horror,Drama).However, the highest number of produced movies falls under Drama Genre.
 
-<img src='images/genre'>
+<img src='images/genre.png'>
 
 #### Second : Director's Name
 
